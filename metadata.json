@@ -1,0 +1,6 @@
+{
+  "name": "BoL Club · 万象博联",
+  "description": "面向各行业海归与菁英的商业与生活连接平台，以高质量线下活动为入口，让更多人彼此遇见、深度连接、共同成长。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
